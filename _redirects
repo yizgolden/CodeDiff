@@ -1,2 +1,1 @@
-/test-rewrite /index.html 200
 /diff /index.html 200
